@@ -1,5 +1,5 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Just adding some text to the second line.
+Just adding some text to the second line here's some more text.
 Adding even more.
 and some more and some more.
 Here's another change.
