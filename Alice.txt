@@ -4,3 +4,4 @@ Adding even more.
 and some more and some more.
 Here's another change.
 This is a change from online.
+Here is a change for interactive rebase. And another.
